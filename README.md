@@ -1,1 +1,1 @@
-hello github!
+This C++ program creates a casino-style card display with randomized output for a dynamic experience. It uses srand for randomness and iomanip for precise formatting, ensuring clean alignment and spacing.
