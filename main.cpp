@@ -50,6 +50,12 @@ string randomcards() {
  Program ended with exit code: 0
  
  
+ ****************************************
+ *                                      *
+ *  Casino cards:-------Four of Hearts  *
+ *                                      *
+ ****************************************
+ 
  */
 
 
